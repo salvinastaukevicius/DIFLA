@@ -8,7 +8,7 @@
   
   #blueHomeBackground {
     width: 2420px;
-    height: 500px;
+    height: 380px;
     margin-top: -44px;
     display: block;
     padding: 0;
@@ -20,20 +20,20 @@
   
   #iceBlock {
     position: absolute;
-    top: 60%;
+    top: 67%;
     left: -10px;
   }
   
   #penguinHome {
     position: absolute;
-    top: 35%;
+    top: 39%;
     height: 600px;
     left: 240px;
   }
   
   #sectionGreeting {
     position: absolute;
-    top: 40%;
+    top: 44%;
     left: 920px;
     display: flex;
   }
@@ -42,7 +42,7 @@
     background-color: white;
     color: #203E83;
     padding: 50px 0px 50px 100px;
-    font-size: 85px;
+    font-size: 75px;
     width: 730px;
     height: 200px;
     border-radius: 50px;
@@ -63,3 +63,4 @@
     margin-left: -100px;
     margin-top: 50px;
   }
+
