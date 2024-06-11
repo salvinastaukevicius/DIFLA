@@ -1,0 +1,31 @@
+body {
+    background-color: antiquewhite;
+}
+
+#titleFlashcards {
+    font-size: 100px;
+    margin: 0 0 0 110px;
+    color: white;
+    margin-bottom: 70px;
+}
+
+#buttonSeeAllText {
+    text-align: center;
+    font-size: 50px;
+    margin-right: 35px;
+}
+
+#buttonSeeAll {
+    display: flex;
+    background-color: white;
+    max-width: 400px;
+    max-height: 100px;
+    margin-left: 110px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+}
+
+#arrowOrangeRight {
+    width: 40px;
+}
