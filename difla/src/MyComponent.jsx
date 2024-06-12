@@ -1,10 +1,10 @@
 // src/MyComponent.js
 import React from 'react';
-import homeBackground from './background.png';
-import blueHome from './homeBackground.png'
-import iceBlock from './ice.png';
-import penguinWave from './penguin_wave.png'
-import iconSpeaker from './sound.svg'
+import homeBackground from './assets/images/background.jpg';
+import blueHome from './assets/images/homeBackground.png'
+import iceBlock from './assets/images/ice.png';
+import penguinWave from './assets/images/penguin_wave.png'
+import iconSpeaker from './assets/images/sound.svg'
 import './homeCard.css'
 
 const MyComponent = () => {

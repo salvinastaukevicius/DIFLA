@@ -1,8 +1,7 @@
-body {
-    background-color: #3166A3;
-    font-family: "Lexend", sans-serif;
-    font-optical-sizing: auto;
-}
+
+body::-webkit-scrollbar {
+    display: none;
+  }
 
 
 #titleFlashcards {
@@ -41,13 +40,13 @@ body {
     margin-top: 50px;
     display: flex;
     justify-content: space-between;
-    max-width: 1960px;
+    max-width: 2130px;
     flex-wrap: wrap;
     row-gap: 70px;
 
 }
 #card {
-    width: 620px;
+    width: 680px;
     display: flex;
     flex-wrap: wrap;
     justify-content: right;

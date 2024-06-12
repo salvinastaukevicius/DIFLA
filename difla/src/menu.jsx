@@ -1,12 +1,8 @@
 
 import React from 'react';
-import iconHomeSelected from './iconHomeSelected.svg';
-import iconStoreUnselected from './iconStoreUnselected.svg'
-import iconUserUnselected from './iconUserUnselected.svg'
-import minigameCover3 from './minigameCover3.png'
-import iceBlock from './ice.png';
-import penguinWave from './penguin_wave.png'
-import iconSpeaker from './sound.svg'
+import iconHomeSelected from './assets/images/iconHomeSelected.svg';
+import iconStoreUnselected from './assets/images/iconStoreUnselected.svg'
+import iconUserUnselected from './assets/images/iconUserUnselected.svg'
 import './menu.css'
 
 const Menu = () => {

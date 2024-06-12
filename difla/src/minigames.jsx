@@ -1,12 +1,8 @@
 
 import React from 'react';
-import blueBorder from './minigamesBorder.svg';
-import minigameCover1 from './minigameCover1.svg'
-import minigameCover2 from './minigameCover2.svg'
-import minigameCover3 from './minigameCover3.png'
-import iceBlock from './ice.png';
-import penguinWave from './penguin_wave.png'
-import iconSpeaker from './sound.svg'
+import blueBorder from './assets/images/minigamesBorder.svg';
+import minigameCover1 from './assets/images/minigameCover1.svg'
+import minigameCover2 from './assets/images/minigameCover2.svg'
 import './minigames.css'
 
 const Minigames = () => {

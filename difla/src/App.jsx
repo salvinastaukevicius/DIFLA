@@ -1,23 +1,25 @@
 // src/App.js
-import React from 'react';
-import MyComponent from './MyComponent';
-import HomeFlashcards from './homeFlashcards'
-import Minigames from './minigames';
-import ParentComponent from './menuOnTop';
-import Menu from './menu';
+import React, { useEffect } from "react";
+import MyComponent from "./MyComponent";
+import HomeFlashcards from "./homeFlashcards";
+import Minigames from "./minigames";
+import Menu from "./menu";
+import './app.css'
+
+
+
 
 const App = () => {
   return (
     <div className="App">
-    {/* <ParentComponent /> */}
-    <Menu />
+      <Menu />
       <MyComponent />
       <HomeFlashcards />
       <Minigames />
-
-
+      
     </div>
   );
 };
+
 
 export default App;
