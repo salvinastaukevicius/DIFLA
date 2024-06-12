@@ -16,7 +16,7 @@
     margin-left: 120px;
     display: flex;
     justify-content: space-between;
-    max-width: 1850px;
+    max-width: 1960px;
     flex-wrap: wrap;
 }
 
@@ -28,7 +28,7 @@
 }
 
 #minigameCard {
-    width: 580px;
+    width: 620px;
     display: flex;
     flex-wrap: wrap;
     justify-content: right;

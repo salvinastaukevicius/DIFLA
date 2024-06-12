@@ -9,7 +9,7 @@ import './homeCard.css'
 
 const MyComponent = () => {
   return (
-    <div>
+    <div id='base'>
 
     <div id='container'>
     <img id='homeBackground' src={homeBackground}/>
