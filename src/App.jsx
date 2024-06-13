@@ -4,7 +4,7 @@ import MyComponent from "./MyComponent";
 import HomeFlashcards from "./homeFlashcards";
 import Minigames from "./minigames";
 import Menu from "./menu";
-import './app.css'
+// import './app.css'
 
 
 
