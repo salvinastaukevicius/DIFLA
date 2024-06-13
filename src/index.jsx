@@ -10,7 +10,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <Router>
     <Routes>
-      <Route path="/public" element={<App />} />
+      <Route path="/" element={<App />} />
       <Route path="/flashcards" element={<FlashcardsPage />} />
     </Routes>
   </Router>
