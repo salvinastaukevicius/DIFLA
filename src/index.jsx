@@ -8,11 +8,12 @@ import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
-    <Routes>
-      <Route path="/" element={<App />} />
-      <Route path="/flashcards" element={<FlashcardsPage />} />
-    </Routes>
-  </Router>
+  // <Router>
+  //   <Routes>
+  //     <Route path="/public" element={<App />} />
+  //     <Route path="/flashcards" element={<FlashcardsPage />} />
+  //   </Routes>
+  // </Router>
+  <FlashcardsPage/>
 );
 serviceWorkerRegistration.unregister();
